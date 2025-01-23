@@ -1,4 +1,4 @@
-# img_Processing
+# Image_Processing
 Manipulating medical images using MATLAB
 
 This project is split into 3 parts. 
